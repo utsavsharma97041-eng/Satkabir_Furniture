@@ -1,0 +1,6 @@
+{
+  "name": "Satkkabir Furniture Udhyog",
+  "description": "Premium handcrafted solid wood furniture store with interactive custom modification studio for bespoke dimensions, wood finish, and tailoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
